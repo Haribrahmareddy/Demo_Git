@@ -3,6 +3,6 @@ public class Hello{
 Public Static Void main(String[] Args) {
 
 System.out.println("hello Hari");
-
+System.out.println("hello Hari");
 }
 }
